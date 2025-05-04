@@ -1,0 +1,10 @@
+
+
+services:
+  process-orders-test:
+    container_name: backend-test
+    build:
+      context: .
+      target: testing
+      args:
+        - NODE_ENV=test

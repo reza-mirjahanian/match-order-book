@@ -1,0 +1,16 @@
+
+
+services:
+  process-orders-dev:
+    container_name: backend-dev
+    build:
+      context: .
+      target: development
+      args:
+        - NODE_ENV=development
+    restart: always
+    ports:
+      - 3008:3001
+    expose:
+      - '3307'
+

@@ -1,0 +1,57 @@
+[
+  {
+    "pair": "BTC/USDC",
+    "bids": [
+      {
+        "id": "13",
+        "account": "2",
+        "price": "62877.3",
+        "remaining": "4.5"
+      },
+      {
+        "id": "12",
+        "account": "2",
+        "price": "61577.3",
+        "remaining": "2"
+      },
+      {
+        "id": "14",
+        "account": "2",
+        "price": "62877.3",
+        "remaining": "3.5"
+      },
+      {
+        "id": "15",
+        "account": "2",
+        "price": "60577.3",
+        "remaining": "1.576"
+      },
+      {
+        "id": "18",
+        "account": "2",
+        "price": "60577.3",
+        "remaining": "0.476"
+      },
+      {
+        "id": "19",
+        "account": "2",
+        "price": "60577.3",
+        "remaining": "1"
+      }
+    ],
+    "asks": [
+      {
+        "id": "16",
+        "price": "65860.3",
+        "remaining": "1.589",
+        "account": "2"
+      },
+      {
+        "id": "17",
+        "price": "66490.5",
+        "remaining": "2.676",
+        "account": "2"
+      }
+    ]
+  }
+]
